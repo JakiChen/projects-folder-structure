@@ -27,4 +27,4 @@ At Mucho we use the following folder stucture for projects. Folders which don’
 * **06 设计探索** – 初步的情绪板，全面组织艺术指导。
 * **07 设计** – 呈献给客户的设计，分多次进行。
 * **08 开发** – 设计规范，设计工作文件，图形资产。
-* **09 可交物** – 源文件，开发文件，CMS用户指南等。
+* **09 交付物** – 源文件，开发文件，CMS用户指南等。
