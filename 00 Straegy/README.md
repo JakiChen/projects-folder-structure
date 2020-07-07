@@ -1,6 +1,6 @@
 ## General file handing
 
-At Mucho we use the following folder stucture for projects. Folders which don’t apply get deleted (and numbers will adapt):
+A folder stucture template for projects. Folders which don’t apply get deleted (and numbers will adapt):
 
 * **00 Strategy** – SOW, proposals, contracts
 * **01 Project Management** – meeting notes, schedules, briefs, questionnaires, etc.
@@ -11,12 +11,12 @@ At Mucho we use the following folder stucture for projects. Folders which don’
 * **06 Design explorations** – initial moodboards, art direction organized in rounds
 * **07 Design** – designs to be presented to the client, organized in rounds
 * **08 Development** – design specifications, design working files, graphic assets
-* **09 Deliverables** – source files, development files, cms user guide etc.
+* **09 Deliverables** – source files, development files, CMS user guide etc.
 
 
 ## 通用文件处理
 
-在 Mucho，我们对项目使用以下文件夹结构。 不需要的文件夹将被删除（并且数字会更改）：
+项目文件夹结构模版。 不需要的文件夹将被删除（并且数字会更改）：
 
 * **00 策略** – SOW，提案，合同
 * **01 项目管理** – 会议记录，日程表，简介，问卷等。
