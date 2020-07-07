@@ -1,4 +1,4 @@
-### General file handing
+## General file handing
 
 At Mucho we use the following folder stucture for projects. Folders which don’t apply get deleted (and numbers will adapt):
 
@@ -14,7 +14,7 @@ At Mucho we use the following folder stucture for projects. Folders which don’
 * **09 Deliverables** – source files, development files, cms user guide etc.
 
 
-### 通用文件处理
+## 通用文件处理
 
 在 Mucho，我们对项目使用以下文件夹结构。 不需要的文件夹将被删除（并且数字会更改）：
 
