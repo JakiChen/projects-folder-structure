@@ -11,7 +11,7 @@ At Mucho we use the following folder stucture for projects. Folders which don’
 * **06 Design explorations** – initial moodboards, art direction organized in rounds
 * **07 Design** – designs to be presented to the client, organized in rounds
 * **08 Development** – design specifications, design working files, graphic assets
-* **09 Deliverables** – source files, development files, cms user guide etc.
+* **09 Deliverables** – source files, development files, CMS user guide etc.
 
 
 ## 通用文件处理
